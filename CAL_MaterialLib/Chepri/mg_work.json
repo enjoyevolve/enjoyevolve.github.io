@@ -116,7 +116,7 @@
 {"id":115,"type":"WD-M01","c_name":"倒A高达","e_name":"Turn A Gundam","j_name":"WD-M01 ターンエーガンダム","production_date":"Aug-07","production_price":3800,"aspect_ratio":1.55},
 {"id":116,"type":"ZGMF-X42S","c_name":"命运高达 Extreme Blast Mode","e_name":"Destiny Gundam Extreme Blast mode","j_name":"デスティニーガンダム エクストリームブラストモード","production_date":"Oct-07","production_price":7000,"aspect_ratio":0.79},
 {"id":117,"type":"ZGMF-X42S","c_name":"命运高达","e_name":"Destiny Gundam ","j_name":"デスティニーガンダム","production_date":"Oct-07","production_price":4800,"aspect_ratio":1.27},
-{"id":118,"type":"RX-0","c_name":"独角兽高达 Ver.Ka","e_name":"Unicorn Gundam Ver.Ka","j_name":"ユニコーンガンダム Ver.Ka","production_date":"Dec-07","production_price":5000,"aspect_ratio":"1..24"},
+{"id":118,"type":"RX-0","c_name":"独角兽高达 Ver.Ka","e_name":"Unicorn Gundam Ver.Ka","j_name":"ユニコーンガンダム Ver.Ka","production_date":"Dec-07","production_price":5000,"aspect_ratio":"1.24"},
 {"id":119,"type":"MSN-04","c_name":"沙扎比金属涂装版","e_name":"Sazabi Metalic Coating","j_name":"サザビー メタリックコーティングバージョン","production_date":"Dec-07","production_price":14000,"aspect_ratio":0.54},
 {"id":120,"type":"MS-06R-1A","c_name":"黑色三连星专用扎古II 2.0版","e_name":"Zaku II ver. 2.0 (Black 3 star's)","j_name":"MS-06R 黒い三連星ザク Ver.2.0","production_date":"Jan-08","production_price":4500,"aspect_ratio":1.27},
 {"id":121,"type":"RX-93","c_name":"ν高达金属涂装版","e_name":"Nu Gundam Metalic Coating","j_name":"νガンダム メタリックコーティングVer.","production_date":"Feb-08","production_price":8500,"aspect_ratio":0.79},
