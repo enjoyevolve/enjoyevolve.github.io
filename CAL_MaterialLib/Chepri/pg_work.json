@@ -22,6 +22,5 @@
 {"id":21,"type":"GN-0000GNHW/7SG?","series":"《机动战士高达00》","c_name":"00高达七剑/G","e_name":"OO Gundam Seven Sword/G","j_name":"ダブルオーガンダムセブンソード/G","production_date":2018-12,"production_price":23000,"aspect_ratio":0.55},
 {"id":22,"type":"GN-001","series":"《机动战士高达00》","c_name":"能天使高达用LED","e_name":"LED unit for Gundam Exia","j_name":"ガンダムエクシア用LEDユニット","production_date":2018-12,"production_price":14000,"aspect_ratio":0.72},
 {"id":23,"type":"GAT-X105+AQM/E-YM1","series":"《机动战士高达SEED》","c_name":"完美强袭高达","e_name":"Perfect Strike Gundam","j_name":"パーフェクトストライクガンダム","production_date":2020-02,"production_price":25000,"aspect_ratio":0.67},
-{"id":24,"type":"RX-78-2","series":"《机动战士高达》","c_name":"Unleashed 高达","e_name":"Unleashed Gundam","j_name":"UNLEASHED ガンダム","production_date":2020-12,"production_price":25000,"aspect_ratio":0.64},
-
+{"id":24,"type":"RX-78-2","series":"《机动战士高达》","c_name":"Unleashed 高达","e_name":"Unleashed Gundam","j_name":"UNLEASHED ガンダム","production_date":2020-12,"production_price":25000,"aspect_ratio":0.64}
 ]

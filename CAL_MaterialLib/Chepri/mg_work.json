@@ -253,6 +253,5 @@
 {"id":252,"type":"MS-09R","series":"《机动战士高达》","c_name":"力克·大魔(升级版)","e_name":"Rick Dom (Renewal)","j_name":"リック·ドム","production_date":2022-03,"production_price":5000,"aspect_ratio":1.26},
 {"id":253,"type":"MSZ-006","series":"《机动战士Z高达》","c_name":"Z高达 Ver.Ka","e_name":"Zeta Gundam Ver.Ka","j_name":"ゼータガンダム Ver.Ka","production_date":2023-04,"production_price":6500,"aspect_ratio":1.28},
 {"id":254,"type":"RX-9","series":"《机动战士高达UC》","c_name":"叙述高达 C装备 Ver.Ka","e_name":"Narrative Gundam C-Pack Ver.Ka","j_name":"ナラティブガンダム C装備 Ver.Ka","production_date":2024-04,"production_price":7000,"aspect_ratio":1.23},
-{"id":255,"type":"MSN-006S","series":"《机动战士高达UC》","c_name":"新安洲·原石(NT Ver.) Ver.Ka","e_name":"Sinanju Stein [Narrative Ver.] Ver.Ka","j_name":"シナンジュ·スタイン (ナラティブ Ver.)","production_date":2024-06,"production_price":8000,"aspect_ratio":1.26},
-
+{"id":255,"type":"MSN-006S","series":"《机动战士高达UC》","c_name":"新安洲·原石(NT Ver.) Ver.Ka","e_name":"Sinanju Stein [Narrative Ver.] Ver.Ka","j_name":"シナンジュ·スタイン (ナラティブ Ver.)","production_date":2024-06,"production_price":8000,"aspect_ratio":1.26}
 ]
